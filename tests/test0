@@ -1,0 +1,6 @@
+my error: at rrors_test.go:25 ┳ hello at rrors_test.go:24
+                              ┣ world
+                              ┃ -happened at rrors_test.go:24
+                              ┗ woowowow at rrors_test.go:24 ┳ more text at rrors_test.go:24
+                                                             ┣ hw some error happened at rrors_test.go:24 > here at rrors_test.go:24 > here at rrors_test.go:24 > wow
+                                                             ┗ aaah at rrors_test.go:24
